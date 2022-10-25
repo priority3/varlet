@@ -1,0 +1,1 @@
+import{d as p,_ as s,f as t,h as n,O as o}from"./vue-router.esm-bundler.786782d7.js";const _=p({name:"AppType"});const a={class:"app-type"};function c(e,r,d,l,f,i){return t(),n("div",a,[o(e.$slots,"default")])}const u=s(_,[["render",c]]);export{u as A};
